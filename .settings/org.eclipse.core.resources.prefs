@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/bbs/BbsDAO.java=UTF-8
+encoding//src/main/java/comment/CommentDAO.java=UTF-8
+encoding//src/main/java/hoituser/HoitUserDAO.java=UTF-8
+encoding//src/main/java/qnacomment/QnacommentDAO.java=UTF-8
+encoding//src/main/java/question/QuestionDAO.java=UTF-8
+encoding//src/main/java/report/ReportDAO.java=UTF-8
+encoding//src/main/java/service/NoticeDAO.java=UTF-8
