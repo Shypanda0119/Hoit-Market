@@ -1,7 +1,9 @@
 # Hoit-Market
 
-## read-me
+### FE: HTML, CSS, JS, JSP
 
-### HTML, CSS, JS, JSP, Java, Apache Tomcat
+### BE: Java, MySQL
+
+### Server: Apache Tomcat
 
 ### 내 역할: Front-End - HTML, CSS, JS, JSP
