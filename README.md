@@ -8,10 +8,10 @@
 
 ### FE: HTML, CSS, JS, JSP
 
-### BE: Java, MySQL, JSP
+### BE: Java, Oracle DB, JSP
 
 ### Server: Apache Tomcat
 
 ### Tools: eclipse, vscode
 
-### my skills: Front-End - HTML, CSS, JS, JSP
+### my skills: DB, Oracle DB, JSP
